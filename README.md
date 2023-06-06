@@ -19,6 +19,8 @@ Kazalo
     - [Facebook](#facebook)
     - [Slack](#slack)
     - [Forumi](#forumi)
+    - [Discord](#discord)
+    - [LinkedIn](#linkedin)
 - [Meetupi](#meetupi---)
 - [Podcasti](#podcasti--)
     - [Slovenski podcasti](#slovenski-podcasti)
@@ -69,11 +71,13 @@ Najbolj razširjena je prav zagotovo Facebook skupina [Slovenski developerji](ht
 #### Facebook
 ##### Tehnične
 - [Slovenski developerji](https://www.facebook.com/groups/developerji)
+- [Ogrodje @ Facebook](https://www.facebook.com/ogrodje/)
 - [Službe za developerje](https://www.facebook.com/groups/587337648113104)
 - [Slovenski junior developerji](https://www.facebook.com/groups/106192093326943)
 - [WordPress Slovenija](https://www.facebook.com/groups/wpslovenija/)
 - [Programerji](https://www.facebook.com/groups/242976319229784/)
 - [Spletni programerji](https://www.facebook.com/groups/158003467603274)
+
 #### Marketing
 - [Growth Hacking Slovenia](https://www.facebook.com/groups/1870456883232512)
 - [Delaj Vitko](https://www.facebook.com/groups/delajvitko)
@@ -88,6 +92,13 @@ Najbolj razširjena je prav zagotovo Facebook skupina [Slovenski developerji](ht
 #### Reddit
 - [slodev](https://www.reddit.com/r/slodev/)
 
+#### Discord
+- [Ogrodje Discord](https://discord.com/invite/TtpR2DSxNC)
+- [Slo-Tech Discord](https://discord.com/invite/ppCtzMW)
+
+#### LinkedIn
+- [Ogrodje @ LinkedIn](https://www.linkedin.com/company/ogrodje/)
+
 ## Meetupi 👨‍🏫 👨‍🎓 🍻
 
 Največ dogodkov oziroma meetupov se lahko zasledi na spletni strani [meetup.com](https://www.meetup.com/).
@@ -101,6 +112,7 @@ Na teh dogodkih se ponavadi odvijajo razne predstavitve/talki, po katerih sledi 
 Seznam razvrščen po številu članov posamezne skupine (vidno na desni strani - _DISCLAIMER: last updated 20.2.2021_).
 _Na desni strani sprememba od zadnjega updata (28.9.2019)_
 #### Splošni meetupi
+
 - [Čez glavo v #vblatu](https://www.meetup.com/vblatu/) | 2386 | :chart_with_downwards_trend: 6
 - [ProductTank Slovenia](https://www.meetup.com/ProductTank-Slovenia/) | 647 | :chart_with_upwards_trend: 74
 - [Digital Freelancers](https://www.meetup.com/Digital-Freelancing/) | 440 | :chart_with_upwards_trend: 49
@@ -125,7 +137,7 @@ _Na desni strani sprememba od zadnjega updata (28.9.2019)_
 - [Scrum Slovenia Meetup](https://www.meetup.com/Slovenia-Scrum-Meetup/) | 533 | :chart_with_upwards_trend: 60
 - [SloGameDev Meetup](https://www.meetup.com/SloGameDev/) | 524 | :chart_with_upwards_trend: 48
 - [PyData Ljubljana Meetup](https://www.meetup.com/PyData-Slovenia-Meetup/) | 494 | :chart_with_upwards_trend: 9
-- [OpenBlend - Slovenian Java User Group](https://www.meetup.com/OpenBlend-Slovenian-Java-User-Group/) | 441 | :chart_with_upwards_trend: 1
+- [OpenBlend - Slovenian Java User Group](https://www.meetup.com/OpenBlend-Slovenian-Java-User-Group/) | 542 | :chart_with_upwards_trend: 1
 - [Vue.js Slovenia](https://www.meetup.com/vue-slovenia/) | 433 | :chart_with_upwards_trend: 4
 - [Backend developers of Ljubljana](https://www.meetup.com/Backend-developers-of-Ljubljana/) | 385 | :chart_with_upwards_trend: 98
 - [Blockchain Developers Meetup](https://www.meetup.com/Blockchain-Developers-Ljubljana/) | 375 | :chart_with_upwards_trend: 3
@@ -151,6 +163,7 @@ Podcasti so intervjuji/pogovori v audio obliki.
 Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne moti pri opravljanju ostalih opravil.
 
 ### Slovenski podcasti
+- [Ogrodje](https://podcasti.si/ogrodje/)
 - [Zakulisje](http://www.alenf.com/zakulisje) - Alen Faljić
 - [Parallel Passion](https://www.parallelpassion.com/) - Miha Rekar
 - [Do mikrofona v #vblatu](https://podcasti.si/do-mikrofona-v-vblatu/) - Andraž Tori
@@ -201,6 +214,7 @@ Večinoma se jih posluša med hojo, tekom, v avtu,... skratka povsod kjer te ne 
 - [Giant Robots Smashing Into Other Giant Robots](https://giantrobots.fm/)
 
 ## Video kanali 🎥 🎬
+- [Ogrodje @ YouTube](https://www.youtube.com/@ogrodje)
 - [Spletne urice Maribor](https://www.youtube.com/channel/UC0TYjK9bZZE6K8CnLgbwaCw/videos)
 - [DragonPy - python meetup](https://www.youtube.com/channel/UCN8JxzMuRkYtdEXYD_8vsQA)
 
@@ -247,6 +261,7 @@ Ankete o plačah narejene na Facebook strani Slovenski developerji (~12000 devel
 #### Strani za informacijo o plačah
 - [Glassdoor](https://www.glassdoor.com/index.htm)
 - [levels.fyi](https://www.levels.fyi)
+- [Joberty](https://www.joberty.si/)
 
 #### LinkedIn
 Kar lahko sami kot programerji naredimo za prepoznavnost in splošen kontakt, je izdelava [LinkedIn](https://www.linkedin.com/) profila ([primer profila](https://www.linkedin.com/in/miha-novak-498738b8/)).
